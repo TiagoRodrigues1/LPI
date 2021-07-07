@@ -1,6 +1,6 @@
 # LPI - VETS4PETS
 
-Projeto Realizado para cadeira de Laboratório de Projeto Integrado - Foi desenvolvida uma aplicação web e android veterinária, onde é possível toda a gestão de animais do utilizador, marcação de consultas na clinicas registadas na aplicação. Por parte do veterinário é possível ver todas as suas consultas adicionar vacinas a um animal, e prescrições.
+Projeto Realizado para cadeira de Laboratório de Projeto Integrado - Foi desenvolvida uma aplicação web e android veterinária, onde é possível toda a gestão de animais do utilizador, marcação de consultas na clinicas registadas na aplicação. Por parte do veterinário é possível ver todas as suas consultas adicionar vacinas a um animal, e prescrições. Esta ideia conta tambem com um forum de adoções para animais, forum de perguntas e respostas de assuntos sobre animais de estimação, onde existe uma iteração entre Veterinarios e o Utilizadores.
 
 ## master
 
@@ -23,6 +23,13 @@ Contém toda a aplicação android desenvolvida em flutter - Basta correr o emul
 
 - Link da nossa [apresentação](https://docs.google.com/presentation/d/1YPRH3fQ700nfCGLi3LbFuLYgzijivEWY56ZyA_ADQ5M/edit?usp=sharing).
 - Nosso [relatório](https://github.com/TiagoRodrigues1/LPI/blob/master/Relatorio_Final_LPI.pdf)
+
+## Videos
+
+- APP UI - https://youtu.be/6ZvB-hu_640
+- VET UI (Site) - https://www.youtube.com/watch?v=6vjoQ5SnYhg
+- ADMIN UI (Site) - https://www.youtube.com/watch?v=X0TCx__plro&lc=Ugw6ZgNLsytZnFRjVkl4AaABAg
+- USER UI (Site) - https://youtu.be/kx15xzsGqMQ
 
 ## Downloads
 
