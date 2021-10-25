@@ -32,7 +32,7 @@ Contém toda a aplicação android desenvolvida em flutter - Basta correr o emul
 - USER UI (Site) - https://youtu.be/kx15xzsGqMQ
 
 ## Downloads
-
+https://mega.nz/file/bN5E2LoA#yZdOgnaOFoKlkqeELidO1zXDJyPlJzH5W-krERERPwY (Se o QRcode não funcionar).
 ![Screenshot](qr-code.png)
 
 
